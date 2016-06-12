@@ -4,6 +4,7 @@
   "description": "a header parser microservice to tell IP, language and system info",
   "main": "serve.js",
   "scripts": {
+    "start": "node serve.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
