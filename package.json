@@ -1,0 +1,25 @@
+{
+  "name": "header_parser",
+  "version": "1.0.0",
+  "description": "a header parser microservice to tell IP, language and system info",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiashuLiu/header_parser.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "JiashuLiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiashuLiu/header_parser/issues"
+  },
+  "homepage": "https://github.com/JiashuLiu/header_parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
